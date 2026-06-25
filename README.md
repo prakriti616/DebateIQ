@@ -1,3 +1,4 @@
+
 # DebateIQ
 
 > Practice debating with an AI opponent and receive real-time feedback on argument quality, reasoning, and persuasion.
@@ -195,4 +196,7 @@ OPENAI_API_KEY=
 * PDF Performance Reports
 * Team Debates
 * Voice-Based Debates
+
+=======
+# DebateIQ
 
